@@ -5,13 +5,12 @@
       "Bash(gh *)",
       "Bash(pytest *)",
       "Bash(python3 *)",
-      "Read", "Edit", "Write"
+      "Read",
+      "Edit",
+      "Write"
     ]
   },
   "sandbox": {
-    "enabled": true,
-    "network": {
-      "allowedDomains": ["github.com", "api.github.com", "*.github.com"]
-    }
+    "enabled": false
   }
 }
